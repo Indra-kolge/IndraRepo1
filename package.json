@@ -1,0 +1,23 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "This repository consist of node js application for transflower students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indra-kolge/IndraRepo.git"
+    
+  },
+  "author": "Indra  kolge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indra-kolge/IndraRepo/issues"
+  },
+  "homepage": "https://github.com/Indra-kolge/IndraRepo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
